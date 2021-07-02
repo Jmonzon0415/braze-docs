@@ -61,7 +61,7 @@ The sample below represents the correct GeoJSON for specifying two geofences: on
 ```
 
 >  The maximum geofence radius that may be uploaded is 100000 meters (100km/62mi).
-
+> The "coordinates" data value needs to be in the [Longitude, Latitude] format
 ## Using Geofence Events
 
 Once geofences have been configured, you can use them to enhance and enrich how you communicate with your users.
